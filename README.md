@@ -1,3 +1,3 @@
 # Web Scraping
  
- Conducting web scraping on several social media and e-commerce platforms using several Python libraries such as Selenium, and googleapiclient for further analysis.
+Conducting web scraping on social media and e-commerce platforms such as Facebook, Instagram, YouTube, and Tokopedia using Python libraries such as Selenium and googleapiclient for further analysis.
